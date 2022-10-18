@@ -1,0 +1,5 @@
+name: HyzerdManopla
+version: 1.0
+depend: [ mkAPI ]
+authors: [ KoddyDev ]
+main: me.koddydev.hyzerdmanopla.ManoplaMain
